@@ -1,0 +1,23 @@
++----------------------+-------+---------+------------+
+| Material List for schematic 'mobs' (1 of 1 regions) |
++----------------------+-------+---------+------------+
+| Item                 | Total | Missing |  Available |
++----------------------+-------+---------+------------+
+| Netherrack           |  2176 |    2176 |          1 |
+| Oak Slab             |    96 |      96 |          0 |
+| Water Bucket         |    88 |      88 |          1 |
+| Hopper               |    62 |      62 |          2 |
+| Chest                |    50 |      50 |          3 |
+| Redstone Repeater    |    28 |      28 |          2 |
+| Redstone Dust        |    19 |      19 |          3 |
+| Dispenser            |    12 |      12 |          1 |
+| Packed Ice           |    11 |      11 |         64 |
+| Observer             |    10 |      10 |          1 |
+| Redstone Comparator  |     7 |       7 |          1 |
+| Stone Pressure Plate |     6 |       6 |          1 |
+| Redstone Torch       |     5 |       5 |          1 |
+| Torch                |     4 |       4 |          2 |
+| Lever                |     1 |       1 |          1 |
++----------------------+-------+---------+------------+
+| Item                 | Total | Missing |  Available |
++----------------------+-------+---------+------------+

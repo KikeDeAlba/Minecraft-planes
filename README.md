@@ -7,7 +7,7 @@
  - Granja de hierro simple
  - Mercado
  - Herramientas perfectas
- - Granja de mobs
+ - [Granja de mobs](/Granjas/Mobs/material_list_2022-06-07_22.40.44.txt)
  - Grandes cultivos de caña
  - Farmeo de 3 cabezas de wither
  - Farmeo de varas de blaze
